@@ -22,9 +22,14 @@ Work pending - handle more complex SQL:
 2) Handle sub queries
 3) Handle advanced queries
 
+Environment Setup:
+1) Visual Studio 2015 Community Edition
+2) Microsoft Modelling and Visualization SDK
+3) Entity Framework 6 and EF6 Tools
+
+Preferable run as administrator.
 
 
-
-I came across several complex SQL Queries with Subqueries and Group by clauses which I aim at implementing some time from now. But for the purpose of early feedback I will be posting my code as it is (by chaning few details in the code). I have explicitly verified from our company regarding posting this code.
+I came across several complex SQL Queries with Subqueries and Group by clauses which I aim at implementing some time from now. But for the purpose of early feedback I will be posting my code as it is (by chaning very few details in the code in order to generalize). I have explicitly verified from our company regarding posting this code.
 
 If anyone else wishes to contribute here. You are welcome to drop me an email at "ganeshkamath89@gmail.com" or contact me at my LinkedIn ID: https://www.linkedin.com/in/ganeshkamath89
