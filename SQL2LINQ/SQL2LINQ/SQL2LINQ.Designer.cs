@@ -47,7 +47,7 @@
             this.txtSQL.ScrollBars = System.Windows.Forms.ScrollBars.Both;
             this.txtSQL.Size = new System.Drawing.Size(388, 401);
             this.txtSQL.TabIndex = 0;
-            this.txtSQL.Text = "Select CountryName From Country";
+            this.txtSQL.Text = "Select Country.CountryName From Country";
             // 
             // txtLINQ
             // 
