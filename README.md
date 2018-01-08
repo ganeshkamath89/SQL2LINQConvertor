@@ -29,6 +29,7 @@ Environment Setup:
 
 Preferable run as administrator.
 
+![sql2linq](https://user-images.githubusercontent.com/2648522/34672707-8382793e-f4a5-11e7-9061-b48106e65009.jpg)
 
 I came across several complex SQL Queries with Subqueries and Group by clauses which I aim at implementing some time from now. But for the purpose of early feedback I will be posting my code as it is (by chaning very few details in the code in order to generalize). I have explicitly verified from our company regarding posting this code.
 
