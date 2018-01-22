@@ -31,8 +31,16 @@ Add 2 environment Variables:
 1) Add the following path to Path, so that the TextTransform.exe path is recognized:
 C:\Program Files (x86)\Common Files\Microsoft Shared\TextTemplating\14.0\
 2) Add the following 
-Variable: VS140COMNTXTTRANSFORM
-Value: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\Templates\Includes
+
+[Variable] VS140COMNTXTTRANSFORM
+
+[Value] C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\Templates\Includes
+
+Remove the first line from the following file:
+
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\Templates\Includes\EF6.Utility.CS.ttinclude
+
+Otherwise it gives error (I dont remember the error or the line that was there).
 
 
 Preferable run as administrator.
