@@ -27,6 +27,14 @@ Environment Setup:
 2) Microsoft Modelling and Visualization SDK
 3) Entity Framework 6 and EF6 Tools
 
+Add 2 environment Variables:
+1) Add the following path to Path, so that the TextTransform.exe path is recognized:
+C:\Program Files (x86)\Common Files\Microsoft Shared\TextTemplating\14.0\
+2) Add the following 
+Variable: VS140COMNTXTTRANSFORM
+Value: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\Templates\Includes
+
+
 Preferable run as administrator.
 
 ![sql2linq](https://user-images.githubusercontent.com/2648522/34672707-8382793e-f4a5-11e7-9061-b48106e65009.jpg)
