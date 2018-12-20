@@ -1,9 +1,8 @@
 # SQL2LINQConvertor
-A work in progress project aimed at conversion of SQL queries to LINQ queries
 
-Hi I am Ganesh Kamath. I work for ERachana Technologies.
+Hi I am Ganesh Kamath. I have stopped working on this project and have moved on to a different company.
 
-I have been working on ASP.net applications for the past 7 months. I am still new to SQL and LINQ. I have created a basic SQL to LINQ convertor which I hope to see compete in converting SQL to LINQ as the project progresses.
+I have created a basic SQL to LINQ convertor which I hope to see compete in converting SQL to LINQ as the project progresses.
 
 Between December 19th and December 30th, I has asked permission to work on this SQL To Linq Convertor at work. I want my 2 week old  project to gain more contributors over time in order to help others like me who might be looking for a solution. I want this code to act as a plugin where user can paste SQL on the Left Hand side to see LINQ  on the Right Hand Side on the click of a button.
 
@@ -49,4 +48,4 @@ Preferable run as administrator.
 
 I came across several complex SQL Queries with Subqueries and Group by clauses which I aim at implementing some time from now. But for the purpose of early feedback I will be posting my code as it is (by chaning very few details in the code in order to generalize). I have explicitly verified from our company regarding posting this code.
 
-If anyone else wishes to contribute here. You are welcome to drop me an email at "ganeshkamath89@gmail.com" or contact me at my LinkedIn ID: https://www.linkedin.com/in/ganeshkamath89
+Feel free to fork a copy and make the changes relevent to your application.
